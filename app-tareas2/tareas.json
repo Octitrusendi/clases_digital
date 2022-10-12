@@ -1,0 +1,30 @@
+[
+ {
+  "titulo": "Repasar JS",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Armar aplicación de Tareas",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "Break",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "nose",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "aprender",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "lloro",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "lloro2",
+  "estado": "pendiente"
+ }
+]
